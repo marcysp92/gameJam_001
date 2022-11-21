@@ -1,2 +1,2 @@
-#RPG Project
-#GitHub Pages project for upcoming RPG game.
+# RPG Project
+GitHub Pages project for upcoming RPG game.
